@@ -1,6 +1,6 @@
 # Hi, I'm Antonia 👋
 
-I am a mathematician with a focus on applied mathematics, currently pursuing a Master's in Data Science and Machine Learning at the National Technical University of Athens.
+I am a mathematician specializing in applied mathematics, currently pursuing a Master's in Data Science and Machine Learning at the National Technical University of Athens.
 
 
 I am passionate about exploring:  
@@ -9,7 +9,7 @@ I am passionate about exploring:
 - **Multimodal AI** 🤖  
 
 
-More projects are coming soon!
+✨More projects are coming soon!
 
 📫 [akorre1997@egmail.com](akorre1997@egmail.com)
 
