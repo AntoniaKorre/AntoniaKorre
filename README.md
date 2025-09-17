@@ -7,7 +7,6 @@ I am passionate about exploring:
 - **Biomedical Technology** 🧬  
 - **Computer Vision** 🖼️  
 - **Multimodal AI** 🤖  
-I enjoy combining mathematics and cutting-edge AI research to solve real-world problems 🌟.
 
 
 More projects are coming soon!
