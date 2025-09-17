@@ -6,7 +6,8 @@ I am a mathematician specializing in applied mathematics, currently pursuing a M
 I am passionate about exploring:  
 - **Biomedical Technology** 🧬  
 - **Computer Vision** 🖼️  
-- **Multimodal AI** 🤖  
+- **Multimodal AI** 🤖
+- **Data Science** 📊
 
 
 ✨More projects are coming soon!
