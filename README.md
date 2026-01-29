@@ -3,14 +3,7 @@
 I am a mathematician specializing in applied mathematics, currently pursuing a Master's in Data Science and Machine Learning at the National Technical University of Athens.
 
 
-I am passionate about exploring:  
-- **Biomedical Technology** 🧬  
-- **Computer Vision** 🖼️  
-- **Multimodal AI** 🤖
-- **Data Science** 📊
 
-
-✨More projects are coming soon!
 
 📫 [akorre1997@gmail.com](akorre1997@gmail.com)
 
