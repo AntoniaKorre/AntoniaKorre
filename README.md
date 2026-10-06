@@ -1,6 +1,6 @@
 # Hi, I'm Antonia 👋
 
-I am a mathematician specializing in applied mathematics with a Master's degree in Data Science and Machine Learning from the National Technical University of Athens.
+I am a mathematician specializing in applied mathematics, with a Master's degree in Data Science and Machine Learning from the National Technical University of Athens. My main research interests include computer vision, machine learning, and applied mathematics.
 
 
 
